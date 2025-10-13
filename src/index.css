@@ -1,5 +1,14 @@
 @import "tailwindcss";
 
+:root {
+    background-color: rgb(243, 243, 243);
+}
+
 input {
     padding: 5px;
+}
+
+td, th {
+    border: 1px solid rgb(191, 188, 188);
+    padding: 2px;
 }
